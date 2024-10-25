@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0,user-scalable=no">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="author" content=" ">
+	<title>404 Not Found</title>
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<link href="/web/lib/layui/2.4.5/css/layui.css" rel="stylesheet">
+	<link href="/web/css/app/app.css" rel="stylesheet">
+		
+	<link href="//at.alicdn.com/t/font_616272_ja7y6rqpa8c40a4i.css" rel="stylesheet">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6b80e18925723dda2d7c48de2aaf2d23";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script><script type="text/javascript" id="globalFuncCode" src="/web/js/common/core.js"></script></head>
+
+<body>
+
+<!-- 头部导航 -->
+<div class="layui-header header-store"> 
+	<div class="layui-container"> 
+		<a class="logo" href="http://www.fonot.cn"><img src="/web/uploads/image/20210317/66t5i3141RJhQ0vN60l1YVj9j6d6Os9u.png" alt="layui" /></a>
+		<ul class="layui-nav">
+							<li class="layui-nav-item">
+					<a href="/">网站首页</a>
+									</li>
+							<li class="layui-nav-item">
+					<a href="/about/gsjj.html">关于我们</a>
+											<dl class="layui-nav-child">
+															<dd lay-unselect="">
+									<a href="/about/gsjj.html">公司简介</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/about/qywh.html">企业文化</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/about/honor">资质荣誉</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/about/zxns">招贤纳士</a>
+								</dd>
+							 
+						</dl>
+									</li>
+							<li class="layui-nav-item">
+					<a href="/products">产品中心</a>
+											<dl class="layui-nav-child">
+															<dd lay-unselect="">
+									<a href="/products/zycxl">转运床系列</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/products/qjcxl">抢救床系列</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/products/ddcxl">电动床系列</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/products/yyxsec">医用新生儿床</a>
+								</dd>
+							 
+						</dl>
+									</li>
+							<li class="layui-nav-item">
+					<a href="/news">新闻资讯</a>
+											<dl class="layui-nav-child">
+															<dd lay-unselect="">
+									<a href="/news/companynews">公司动态</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/news/industrynews">行业资讯</a>
+								</dd>
+															<dd lay-unselect="">
+									<a href="/news/cpzs">产品知识</a>
+								</dd>
+							 
+						</dl>
+									</li>
+							<li class="layui-nav-item">
+					<a href="/contact.html">联系我们</a>
+									</li>
+					</ul>
+	</div>
+</div>
+
+<div class="app-page-404">
+
+	<div class="layui-container">
+		<div class="wayii-tips">
+			<i class="wayii-icon wayii-icon-error404"></i>
+			<div class="wayii-text">
+				<h1>
+					<span>4</span> 
+					<span class="wayii-anim wayii-anim-loop wayii-anim-rotate">0</span> 
+					<span>4</span>
+				</h1>
+			</div>
+			<div class="wayii-links">
+				<a href="/">返回首页</a>
+				<a class="refresh" href="http://www.folont.cn/web/template/bontop/fonts/glyphicons-halflings-regular.woff2">刷新页面</a>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- 底部版权 -->
+<div class="layui-footer">
+	<div class="layui-container">
+		<p>Copyright©2021 江苏富朗特医疗科技有限公司 All Rights Reserved</p>
+		<p>备案号：<a href="http://www.beian.miit.gov.cn" rel="nofollow">苏ICP备18036826号-1</a>　技术支持：无锡网站建设</p>
+			</div>
+</div>
+
+<script src="/web/lib/layui/2.4.5/layui.js" type="text/javascript"></script>
+<script src="/web/js/app/app.js" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6b80e18925723dda2d7c48de2aaf2d23";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></body>
+</html>
